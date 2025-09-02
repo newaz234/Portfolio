@@ -37,7 +37,35 @@
                 <a href="#" class="btn">Download CV</a>
             </div>
             <div class="home-img">
-             <img src="profile-pic.jpg" alter=""/>
+             <img src="home-img.jpg" alter=""/>
+            </div>
+        </section>
+        <section class="about" id="about">
+            <div class="home-img">
+                <img src="about-img.jpg" />
+            </div>
+            <div class="about-content">
+                <h2 class="heading">about <span>me</span></h2>
+                <h3>Frontend developer</h3>
+                <p>I am full stack developer. Currently I am an undergraduate student</p>
+                <a href="#" class="btn">Read more</a>
+            </div>
+        </section>
+        <section class="service" id="service">
+            <h2 class="heading">Our <span>Services</span></h2>
+            <div class="service-container">
+                <div class="service-box">
+                    <i class="fa-solid fa-paintbrush"></i>
+                    <h3>Graphics design</h3>
+                    <p>I design creative and professional visuals including logos, banners, posters, and social media graphics to make your brand stand out.</p>
+                   <a href="#" class="btn">Read more</a>
+                </div>
+                <div class="service-box">
+                    <i class="fa-solid fa-code"></i>
+                    <h3>Web development</h3>
+                    <p>I build modern, responsive, and user-friendly websites tailored to your needs. Clean design, smooth functionality, and SEO-friendly structure for a powerful online presence.</p>
+                   <a href="#" class="btn">Read more</a>
+                </div>
             </div>
         </section>
     </form>
