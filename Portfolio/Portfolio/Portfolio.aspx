@@ -68,6 +68,47 @@
                 </div>
             </div>
         </section>
+        <section class="portfolio" id="portfolio">
+            <h2 class="heading">latest <span>Porject</span></h2>
+            <div class="portfolio-container">
+                <div class="portfolio-box">
+                    <img src="web-img.jpg" />
+                    <div class="portfolio-layer">
+                        <h4> portfolio design</h4>
+                        <p>Design my own portflio using asp.net framework</p>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+
+                    </div>
+                </div>
+                 <div class="portfolio-box">
+                    <img src="clock-img.jpg" />
+                    <div class="portfolio-layer">
+                        <h4> Digital clock design</h4>
+                        <p>Design ditital clock using mone nei</p>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+
+                    </div>
+                </div>
+                 <div class="portfolio-box">
+                    <img src="web-img.jpg" />
+                    <div class="portfolio-layer">
+                        <h4> portfolio design</h4>
+                        <p>Design my own portflio using asp.net framework</p>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+
+                    </div>
+                </div>
+                 <div class="portfolio-box">
+                    <img src="web-img.jpg" />
+                    <div class="portfolio-layer">
+                        <h4> portfolio design</h4>
+                        <p>Design my own portflio using asp.net framework</p>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+
+                    </div>
+                </div>
+            </div>
+        </section>
     </form>
 </body>
 </html>
